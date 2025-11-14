@@ -1,0 +1,12 @@
+group,subject,sex,age
+control,sub-002,male,28
+patient,sub-005,female,19
+patient,sub-001,female,42
+control,sub-008,male,52
+control,sub-011,female,50
+patient,sub-009,male,32
+control,sub-003,female,41
+patient,sub-006,male,37
+control,sub-010,female,38
+patient,sub-007,male,21
+patient,sub-005,female,21
